@@ -1,0 +1,39 @@
+{
+  "primi": [
+    {
+      "id": 1,
+      "nome": "minestrone",
+      "prezzo": 6.00
+    },
+    {
+      "id": 2,
+      "nome": "penne all'arrabbiata",
+      "prezzo": 6.50
+    },
+    {
+      "id": 3,
+      "nome": "risotto con salsiccia",
+      "prezzo": 8.50
+    }  
+  ],
+  "secondi": [
+    {
+      "id": 1,
+      "nome": "cotiche",
+      "contorno": "fagioli",
+      "prezzo": 7.00
+    },
+    {
+      "id": 2,
+      "nome": "costata",
+      "contorno": "patate al forno",
+      "prezzo": 13.50
+    },
+    {
+      "id": 3,
+      "nome": "salsiccie",
+      "contorno": "erbette saltate",
+      "prezzo": 9.00
+    }
+  ]
+}
