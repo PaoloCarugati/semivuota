@@ -25,13 +25,13 @@
     },
     {
       "id": 2,
-      "nome": "costata",
+      "nome": "costata ai ferri",
       "contorno": "patate al forno",
       "prezzo": 13.50
     },
     {
       "id": 3,
-      "nome": "salsiccie",
+      "nome": "salsiccie alla piastra",
       "contorno": "erbette saltate",
       "prezzo": 9.00
     }
